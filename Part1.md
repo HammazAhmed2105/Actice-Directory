@@ -1,6 +1,6 @@
 # Creating a Logical Diagram
 ## Overview  
-The lab includes two servers, two computers, and a network setup. This environment helps you practice installing and configuring AD, Splunk, and related tools, providing practical experience to showcase during interviews.  
+The lab includes two servers, two computers, and a network setup. This environment helps me practice installing and configuring AD, Splunk, and related tools, providing practical experience to showcase during interviews.  
 
 ## Lab Diagram  
 Below is the diagram representing our lab environment:  
