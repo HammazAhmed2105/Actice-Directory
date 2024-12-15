@@ -5,7 +5,7 @@ The lab includes two servers, two computers, and a network setup. This environme
 ## Lab Diagram  
 Below is the diagram representing our lab environment:  
 
-<img src="https://imgur.com/g5UdzFA" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Lab Diagram](https://i.imgur.com/g5UdzFA.png)
 
 ### Components  
 - **Servers**  
