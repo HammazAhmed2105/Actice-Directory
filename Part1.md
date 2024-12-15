@@ -41,7 +41,7 @@ Below is the diagram representing our lab environment:
   - **Cloud**: Represents the internet.  
 
 ### Network Information  
-- **Domain Name**: `mydfir.local`  
+- **Domain Name**: `AD-Lab`  
 - **Network Subnet**: `192.168.10.0/24`  
 
 ### Log Forwarding  
@@ -52,12 +52,6 @@ Below is the diagram representing our lab environment:
   - Connection: Dotted green lines in the diagram  
   - Tools Used: Splunk Universal Forwarder  
 
-### Potential Enhancements  
-To make the lab more advanced, you could add:  
-- **Intrusion Detection System (IDS)**  
-- **Endpoint Detection and Response (EDR)**  
-- **Firewall**  
-
 ## Future Steps  
 In the next part of this series, we will:  
 1. Install all components (servers, virtual machines, tools).  
@@ -66,7 +60,4 @@ In the next part of this series, we will:
 
 ## Tools Used for Diagram Creation  
 The diagram was created using [Draw.io](https://app.diagrams.net/), a free and easy-to-use tool for creating network diagrams.  
-
-## Stay Connected  
-Follow along with this series to build your skills, troubleshoot issues, and get hands-on experience for interviews. Let’s stay curious and do things differently!  
 
