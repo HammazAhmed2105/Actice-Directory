@@ -1,13 +1,11 @@
 # Creating a Logical Diagram
-# Active Directory Project - Lab Diagram  
-
 ## Overview  
-This project is part of a five-part series where we build a fully functional Active Directory (AD) lab from scratch. The lab includes two servers, two computers, and a network setup. This environment helps you practice installing and configuring AD, Splunk, and related tools, providing practical experience to showcase during interviews.  
+The lab includes two servers, two computers, and a network setup. This environment helps you practice installing and configuring AD, Splunk, and related tools, providing practical experience to showcase during interviews.  
 
 ## Lab Diagram  
 Below is the diagram representing our lab environment:  
 
-![Lab Diagram](path-to-your-diagram-image)  
+<img src="https://imgur.com/g5UdzFA" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 ### Components  
 - **Servers**  
