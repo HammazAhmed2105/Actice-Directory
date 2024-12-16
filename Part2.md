@@ -76,6 +76,8 @@ The DC will allow:
 3. Boot up your Splunk Server by Hitting on **Start** in Virtual Box.
   - You should be shown the below screen.
   - ![Ubuntu Server](https://i.imgur.com/F85PKqB.png)
+ 4. Continue hitting next until you get the below screen.
+- ![Ubuntu Server](https://i.imgur.com/DLNSOEj.png)
 ---
 - Your Virtual Box should look like below
 - ![Virtual Box](https://i.imgur.com/aT2iBuX.png)
