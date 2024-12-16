@@ -44,6 +44,7 @@ The DC will allow:
 5. Start the VM, and install Windows 10 using the ISO file:
    - Skip the product key during installation.
    - Select **Custom Install** and proceed.
+   - ![Custom Install](https://i.imgur.com/mBiBh7E.png)
 
 
 ### Step 3: Create a Kali Linux Virtual Machine
