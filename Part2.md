@@ -64,6 +64,7 @@ The DC will allow:
    - Memory: Set to **4 GB**.
    - Hard Disk: Allocate **50 GB**.
    - Attach the downloaded ISO file as the virtual CD/DVD.
+   - ![WindowsServer](https://i.imgur.com/79RnJtc.png)
 4. Install Windows Server 2022:
    - Follow the on-screen instructions to complete the installation.
 
