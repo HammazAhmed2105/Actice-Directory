@@ -78,6 +78,12 @@ The DC will allow:
   - ![Ubuntu Server](https://i.imgur.com/F85PKqB.png)
  4. Continue hitting next until you get the below screen.
 - ![Ubuntu Server](https://i.imgur.com/DLNSOEj.png)
+5. For this screen, choose your username and server name and lastly password. In the next screen skip SSh configuration. And lastly choose done.
+6. Now our setup will install ubuntu server on our machine.
+7. Once we are shown the below screen that has the *reboot** ption, click on it and we are done.
+- ![Ubuntu Server](https://i.imgur.com/D6WpSRc.png)
+
+
 ---
 - Your Virtual Box should look like below
 - ![Virtual Box](https://i.imgur.com/aT2iBuX.png)
