@@ -71,6 +71,9 @@ The DC will allow:
 ---
 ### Step 5: Ubuntu Server
 1. Download the Ubuntu file from here [Ubuntu Server](https://ubuntu.com/download/server)
+2. Head upto ORacle Virtual Box, hit new, and name your ubuntu server.
+- - ![Ubuntu Server](https://i.imgur.com/79RnJtc.png)
+3. 
 ---
 
 ## Final Notes
