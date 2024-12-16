@@ -69,11 +69,14 @@ The DC will allow:
    - Follow the on-screen instructions to complete the installation.
 
 ---
+### Step 5: Ubuntu Server
+1. Download the Ubuntu file from here [Ubuntu Server](https://ubuntu.com/download/server)
+---
 
 ## Final Notes
 After completing these steps, you should have the following virtual machines installed:
 1. Windows 10 (Target machine).
 2. Kali Linux (Attacker machine).
 3. Windows Server 2022 (Domain Controller).
-4. Ubuntu Server (to be configured in Part 3).
+4. Ubuntu Server.
 
