@@ -72,10 +72,11 @@ The DC will allow:
 ### Step 5: Ubuntu Server
 1. Download the Ubuntu file from here [Ubuntu Server](https://ubuntu.com/download/server)
 2. Head upto ORacle Virtual Box, hit new, and name your ubuntu server.
-- - ![Ubuntu Server](https://i.imgur.com/79RnJtc.png)
-3. 
+- ![Ubuntu Server](https://i.imgur.com/79RnJtc.png)
+3. Boot up your Splunk Server by Hitting on **Start** in Virtual Box.
 ---
-
+- Your Virtual Box should look like below
+- ![Virtual Box](https://i.imgur.com/aT2iBuX.png)
 ## Final Notes
 After completing these steps, you should have the following virtual machines installed:
 1. Windows 10 (Target machine).
