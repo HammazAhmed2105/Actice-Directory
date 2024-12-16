@@ -39,11 +39,12 @@ The DC will allow:
    - Name: Choose a name (e.g., `Windows10`).
    - Memory: Set to **4 GB**.
    - Hard Disk: Allocate **50 GB**.
-4. Start the VM, and install Windows 10 using the ISO file:
+4. At the end you should have the below configuration.
+![Windows10 VM](https://i.imgur.com/pcw3EVI.png)
+5. Start the VM, and install Windows 10 using the ISO file:
    - Skip the product key during installation.
    - Select **Custom Install** and proceed.
-5. At the end you should have the below configuration.
-![Windows10 VM](https://i.imgur.com/pcw3EVI.png)
+
 
 ### Step 3: Create a Kali Linux Virtual Machine
 1. Visit [Kali Linux's official website](https://www.kali.org/).
@@ -74,4 +75,3 @@ After completing these steps, you should have the following virtual machines ins
 3. Windows Server 2022 (Domain Controller).
 4. Ubuntu Server (to be configured in Part 3).
 
-Stay tuned for the next part, where we configure the domain and set up Active Directory!
