@@ -74,6 +74,8 @@ The DC will allow:
 2. Head upto ORacle Virtual Box, hit new, and name your ubuntu server.
 - ![Ubuntu Server](https://i.imgur.com/79RnJtc.png)
 3. Boot up your Splunk Server by Hitting on **Start** in Virtual Box.
+  - You should be shown the below screen.
+  - ![Ubuntu Server](https://i.imgur.com/F85PKqB.png)
 ---
 - Your Virtual Box should look like below
 - ![Virtual Box](https://i.imgur.com/aT2iBuX.png)
