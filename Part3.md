@@ -14,7 +14,7 @@
 ## Step 2: Configure Static IP for Splunk Server
 1. On the Splunk virtual machine, open the terminal and type:
     ```bash
-    sudo nano /etc/netplan/<config-file>.yaml
+    sudo nano /etc/netplan/00-installer-config.yaml
     ```
 2. Modify the configuration:
     ```yaml
