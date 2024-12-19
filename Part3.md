@@ -8,3 +8,4 @@
 5. For each virtual machine (Splunk server, Active Directory server, Windows, Kali):
     - Go to **Settings** > **Network**.
     - Change **Attached to** to **NAT Network** and select the created network (`ad_project`).
+- ![NAT](https://i.imgur.com/q42HUie.png)
