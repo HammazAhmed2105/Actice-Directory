@@ -37,6 +37,7 @@
     ```bash
     ping google.com
     ```
+    - - ![Verify](https://i.imgur.com/aegZBBh.png)
 
 ---
 
