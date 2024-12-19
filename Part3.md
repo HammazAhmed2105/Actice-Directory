@@ -24,6 +24,7 @@
     nameservers:
         addresses: [8.8.8.8]
     ```
+   - ![Config](https://i.imgur.com/OfPNidw.png)
 3. Save and apply changes:
     ```bash
     sudo netplan apply
